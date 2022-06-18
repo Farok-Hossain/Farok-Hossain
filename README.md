@@ -51,7 +51,6 @@
 <br />
 
 <!-- GitHub Profile Views Counter -->
-![](https://komarev.com/ghpvc/?username=taibislamdipu)
 
 
 
