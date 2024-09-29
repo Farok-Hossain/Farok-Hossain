@@ -60,11 +60,6 @@
 <!-- ------------------------------
             Cover Photo List 
 ----------------------------------->
-<!-- 
-The Creation of Adam by Michelangelo. Date: 1508 - 1512 - https://i.imgur.com/5wANBmv.jpg  
-The Writing on the Wall, new songs by Iron Maiden - https://i.imgur.com/1Thi7Iz.jpg
-The School of Athens - https://i.imgur.com/E7nqDJS.jpg
--->
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Farok-Hossain)  
 
