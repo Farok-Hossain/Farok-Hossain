@@ -8,6 +8,7 @@
 
 ### 🤝 Connect with me
 - 🌐 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/farok-hossain-008444202/" target="_blank" title="LinkedIn">linkedin.com/in/farok-hossain-008444202</a>
+- 🌐 <b>Portfolio:</b> <a href="https://farok-hossain-portfolio.vercel.app/" target="_blank" title="Portfolio">farok_hossain_portfolio</a>
 - 📫 <b>Email:</b> farokafs7@gmail.com
 
 
@@ -18,6 +19,7 @@
 ### 👨‍💻 Languages and Frameworks
 
 <img align="left" alt="ReactJs" title="ReactJS (I'm a JavaScript library)" height="32" width="32" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img align="left" alt="NextJS" title="NextJS (I'm a JavaScript library)" height="32" width="32" src="https://logowik.com/content/uploads/images/nextjs7685.logowik.com.webp"/>
 <img align="left" alt="Bootstrap" title="Bootstrap" height="32" width="32" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
 <img align="left" alt="JavaScript" title="JavaScript" height="32" width="32" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
 <img align="left" alt="HTML" title="HTML" height="32" width="32" src="https://img.icons8.com/color/50/000000/html-5.png" />
